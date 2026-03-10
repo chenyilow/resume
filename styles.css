@@ -46,11 +46,9 @@ ul {
 .line1 {
   display: flex;
   justify-content: space-between;
-  margin-bottom: -30px;
 }
 
 .line2 {
   display: flex;
   justify-content: space-between;
-  margin-bottom: -15px;
 }
